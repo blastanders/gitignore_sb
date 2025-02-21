@@ -27,6 +27,7 @@ public_html/img/
 public_html/vendor/
 var/
 ci_sessions/
+wflogs/
 vendor/
 vendor/**
 tmp/
