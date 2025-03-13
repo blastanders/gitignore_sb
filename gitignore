@@ -23,6 +23,7 @@
 # Explicitly ignore img directory and its subdirectories
 **/img/
 public_html/img/
+public_html/stats/index.html
 
 public_html/vendor/
 var/
