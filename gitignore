@@ -53,3 +53,6 @@ Maildir/
 cache/
 */cache/
 **/cache/
+
+**/sessions/sess_*
+**/public_html/stats/*
