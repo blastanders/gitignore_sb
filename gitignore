@@ -26,6 +26,7 @@ public_html/img/
 public_html/stats/index.html
 
 public_html/vendor/
+public_html/stats/
 var/
 ci_sessions/
 wflogs/
