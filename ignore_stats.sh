@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#vi ~/ignore_stats.sh
+#sh ~/ignore_stats.sh
+
+
 # Find all public_html/stats directories under /home
 for statsdir in /home/*/public_html/stats; do
   if [ -d "$statsdir" ]; then
