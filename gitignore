@@ -48,6 +48,7 @@ Maildir/
 .ssh/
 .usermin/
 .vscode-server/
+.vscode/
 /cgi-bin/
 /fcgi-bin/
 /logs/
