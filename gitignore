@@ -55,6 +55,7 @@ Maildir/
 cache/
 */cache/
 **/cache/
+moodledata/
 
 **/sessions/sess_*
 **/public_html/stats/*
