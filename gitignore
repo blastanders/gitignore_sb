@@ -22,6 +22,8 @@
 
 # Explicitly ignore img directory and its subdirectories
 **/img/
+**/uploads/
+**/uploads/**
 public_html/img/
 public_html/stats/index.html
 
@@ -56,6 +58,8 @@ cache/
 */cache/
 **/cache/
 moodledata/
+project
+
 
 **/sessions/sess_*
 **/public_html/stats/*
